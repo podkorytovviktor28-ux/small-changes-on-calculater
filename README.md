@@ -1,1 +1,1 @@
-# small-changes-on-calculater
+# small-changes-on-calculator
